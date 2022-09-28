@@ -5,7 +5,7 @@
 
     
     <main class="form-signin w-100 m-auto">
-    <form action="" method="post">
+    <form action="index.php?controller=usuario&action=log" method="post">
         <h1 class="h3 mb-3 fw-normal">Por favor, ingresá tus datos</h1>
 
         <div class="form-floating">

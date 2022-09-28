@@ -20,7 +20,15 @@ class Usuario{
     public function login(){
 
         require_once $_SERVER['DOCUMENT_ROOT'].'../views/layout/login.php';
+        
+    }
 
+    public function log(){
+
+        if(isset($_POST)){
+            
+        }
+        
     }
 
     public function save(){
